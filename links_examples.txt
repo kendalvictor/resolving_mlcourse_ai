@@ -1,0 +1,5 @@
+KAGGLE:
+
+https://www.kaggle.com/saduman/data-analysis-from-olympic-history-data
+https://www.kaggle.com/arunsankar/key-insights-from-olympic-history-data
+https://www.kaggle.com/statchaitya/seaborn-practice-olympics-dataset/notebook
