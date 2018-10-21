@@ -143,6 +143,8 @@ pip-selfcheck.json
 ### Scala ###
 *.class
 
+*.bz2
+*.zip
 
 # End of https://www.gitignore.io/api/scala,pydev,python,jupyternotebook
 
